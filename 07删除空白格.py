@@ -5,10 +5,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
  python 
 >>> print(favorite_language.rstrip())
  python
->>> favorite_langua
-KeyboardInterrupt
->>> 
-KeyboardInterrupt
 >>> favorite_language
 ' python '
 >>> favorite_language.rstrip()
@@ -17,4 +13,3 @@ KeyboardInterrupt
 'python '
 >>> favorite_language.strip()
 'python'
->>> 
