@@ -37,9 +37,3 @@ helloGene Snow!
 >>> print(message)
 Hello,Gene Snow!
 >>> #将信息储存在变量 message 中 进一步简化python 语句
-KeyboardInterrupt
->>> 
-KeyboardInterrupt
->>> 
-KeyboardInterrupt
->>> 
