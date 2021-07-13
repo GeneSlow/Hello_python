@@ -3,7 +3,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> name='gene snow'
 >>> print(name.title())
 Gene Snow
->>> 
 >>> '''将字符串 gene snow 储存在变量name中
        title()是方法 方法在python可对数据执行的操作
        (.)是为了让python对变量 name 执行 方法title()指定的操作
@@ -16,7 +15,6 @@ Gene Snow
 GENE SNOW
 >>> print(name.lower())
 gene snow
->>> #拼接信息\
 >>> #拼接信息
 >>> first_name='gene'
 >>> last_name='snow'
@@ -28,11 +26,6 @@ hello,gene snow!
 >>> print('Hello,'+full_name.title()+'!')
 Hello,Gene Snow!
 >>> #增加一个full_name的变量 简化python 的语言
->>> message='hello'+full_name.title()+'!')
-SyntaxError: unmatched ')'
->>> message='hello'+full_name.title()+'!'
->>> print(message)
-helloGene Snow!
 >>> message='Hello,'+full_name.title()+'!'
 >>> print(message)
 Hello,Gene Snow!
